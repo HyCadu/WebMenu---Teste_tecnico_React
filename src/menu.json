@@ -1,0 +1,45 @@
+[
+    {
+      "nome": "Início",
+      "subcategorias": []
+    },
+    {
+      "nome": "Produtos",
+      "subcategorias": [
+        {
+          "nome": "Eletrônicos",
+          "subcategorias": [
+            {
+              "nome": "Smartphones"
+              
+              
+            },
+            {
+              "nome": "Laptops"
+            },
+            {
+              "nome": "Acessórios"
+            }
+          ]
+        },
+        {
+          "nome": "Roupas",
+          "subcategorias": [
+            {
+              "nome": "Camisetas"
+            },
+            {
+              "nome": "Calças"
+            },
+            {
+              "nome": "Sapatos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Contato",
+      "subcategorias": []
+    }
+  ]
